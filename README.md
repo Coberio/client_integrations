@@ -1,1 +1,1 @@
-### COBERIO CUSTOM INTEGRATIONS [Link 🔗](/COBERIO_CUSTOM_INTEGRATIONS_ES.md)
+### COBERIO CUSTOM INTEGRATIONS [Link 🔗](/COBERIO_CUSTOM_INTEGRATIONS_ES.md) [Video 🔗](/videos/coberio_custom_integration.mp4)
